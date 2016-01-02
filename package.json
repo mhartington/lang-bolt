@@ -1,0 +1,14 @@
+{
+  "name": "lang-bolt",
+  "version": "0.0.0",
+  "description": "syntax files for bolt language",
+  "keywords": [
+  ],
+  "repository": "https://github.com/mhartington/lang-bolt",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
