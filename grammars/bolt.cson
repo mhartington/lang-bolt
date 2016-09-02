@@ -123,7 +123,7 @@ patterns: [
     name: "keyword.control.bolt"
   }
   {
-    match: "\\b(read|write|validate)\\b"
+    match: "\\b(read|write|validate|create|update|delete|index)\\b"
     name: "storage.modifier.bolt"
   }
   {
